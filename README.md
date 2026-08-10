@@ -87,6 +87,8 @@ Para complementar el análisis realizado en Power BI, se implementó un flujo au
 
 Desde el dashboard, el usuario puede ejecutar el envío de una alerta al área de Compras. El flujo procesa la información disponible, identifica los productos críticos y genera un correo con los artículos que requieren atención.
 
+![Flujo de automatización en n8n](Flujo-N8N.png)
+
 De esta manera, el proyecto busca conectar el análisis con la acción: **no solo mostrar qué está ocurriendo con el inventario, sino facilitar que esa información pueda utilizarse para tomar una decisión.**
 
 ## 🌱 Aprendizajes
