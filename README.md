@@ -54,6 +54,8 @@ El modelo integra información de **productos, stock por ubicación, almacenes, 
 
 Dashboard orientado a obtener una visión global del inventario y detectar rápidamente situaciones que requieren atención.
 
+![Dashboard Control de Stock General](dashboard-general.png)
+
 Permite analizar:
 
 - Productos críticos.
@@ -67,6 +69,8 @@ Permite analizar:
 ### Control de Stock por Producto
 
 Dashboard diseñado para profundizar el análisis de un artículo específico.
+
+![Dashboard Control de Stock por Producto](dashboard-producto.png)
 
 Permite consultar:
 
